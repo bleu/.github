@@ -1,0 +1,23 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleu/.github/main/assets/logo-dark.svg">
+  <img alt="Bleu logo" src="https://raw.githubusercontent.com/bleu/.github/main/assets/logo-light.svg" width="auto" height="120">
+</picture>
+
+[Bleu](https://bleu.com) is the web3 development partner for companies and DAOs, dedicated to making blockchain interactions simple and user-friendly. Our mission is to bridge the gap between blockchain's potential and current user interfaces, helping onboard the next billion users to blockchain.
+
+We specialize in:
+
+- **User-facing web3 app development**: Building responsive, user-friendly interfaces with Next.js, connected to smart contracts, often using backend solutions like Ponder and Subgraphs for data indexing.
+- **Prototyping and UI/UX Design**: Developing interactive prototypes for feedback and iteration, and crafting intuitive, accessible interfaces tailored to each project's target audience.
+
+This GitHub Organization hosts Bleu's open-source projects, designs, and experimental code.
+
+Among our current and past projects:
+
+- **Optimism Tech Partner**: Supporting teams with innovative smart contracts, from initial prototyping and design to backend development and data analytics.
+- **CoW Stoploss**: Enabling non-technical users to create stop-loss orders within the CoW protocol.
+- **Balancer Pool Simulator**: Empowering pool owners to enhance their pools with metadata for better user understanding.
+
+For more information about our work and values, visit our [website](https://bleu.com).
+
+You can also check out our [projects on GitHub](https://github.com/bleu).
