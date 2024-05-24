@@ -15,7 +15,7 @@ This GitHub Organization hosts Bleu's open-source projects, designs, and experim
 Among our current and past projects:
 
 - **Optimism Tech Partner**: Supporting teams with innovative smart contracts, from initial prototyping and design to backend development and data analytics.
-- **CoW Stoploss**: Enabling non-technical users to create stop-loss orders within the CoW protocol.
+- **[CoW Stoploss](https://composable-cow-hub.vercel.app/)**: Enabling non-technical users to create stop-loss orders within the CoW protocol.
 - **[Balancer Pool Simulator](https://balancer-tools.bleu.fi/poolsimulator)**: Empowering pool owners to enhance their pools with metadata for better user understanding.
 
 For more information about our work and values, visit our [website](https://bleu.builders).
