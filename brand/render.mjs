@@ -81,12 +81,8 @@ const banner = `<style>${css}</style>
 </div></body>`
 
 const CARDS = [
-  ['scaffold-composable-cow', 'The scaffolding people <em>actually build on.</em> 125+ forks.'],
-  ['cow-py', 'CoW Protocol’s Python SDK. Built from scratch, <em>upstreamed.</em>'],
-  ['stellar-brl-corridor', 'A BRL/PIX corridor on Stellar. <em>Audited</em> Soroban primitives.'],
-  ['cow-programmatic-orders-api', 'Programmatic orders on CoW Protocol, <em>live in production.</em>'],
-  ['claude-boilerplate', 'Our starting point for putting <em>AI to work.</em>'],
-  ['bleu', 'We build products, modernize systems and <em>put AI to work.</em>'],
+  ['cow-hooks-dapps', 'Hooks dapps for CoW Swap, <em>live in production.</em>'],
+  ['aqua', 'A shared liquidity layer protocol, <em>built in public.</em>'],
 ]
 
 const browser = await chromium.launch()
