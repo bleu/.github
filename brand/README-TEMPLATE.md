@@ -21,7 +21,7 @@ use, audit) if it exists.
 
 ---
 
-[![Built and maintained by Bleu](https://raw.githubusercontent.com/bleu/.github/main/brand/banner-built-by-bleu.png)](https://bleu.builders)
+[![Built and maintained by Bleu](https://raw.githubusercontent.com/bleu/.github/main/brand/banner-built-by-bleu.png)](https://bleu.builders/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=repo-name)
 ```
 
 New social previews: `brand/render.mjs` renders them (needs playwright + the brand fonts);

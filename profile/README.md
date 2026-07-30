@@ -1,7 +1,7 @@
 # Bleu
 
 We build products, modernize systems and put AI to work — from Florianópolis,
-Brazil, for companies in Brazil, the US, and Europe. [bleu.builders](https://bleu.builders)
+Brazil, for companies in Brazil, the US, and Europe. [bleu.builders](https://bleu.builders/?utm_source=github&utm_medium=referral&utm_campaign=org-profile)
 
 Most of our engineering is public. A sample of what we've shipped and maintain:
 
@@ -18,4 +18,4 @@ multichain APIs, liquidation infrastructure. Infrastructure costs cut 80%.
 including a global M&M's launch that reached 1.5M people at 99.984% uptime.
 
 Have a software problem that's been stuck too long?
-**[Bring us the problem →](https://bleu.builders/contact/)**
+**[Bring us the problem →](https://bleu.builders/contact/?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=cta)**
